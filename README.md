@@ -1,3 +1,3 @@
 # practicasCursoGit
 
-# modificado por xtina-ies práctica 6
+# modificado por xtina-ies práctica 4b
